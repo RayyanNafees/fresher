@@ -1,0 +1,25 @@
+{
+  "build_id": "b509cadef467f0adac991dbe8c8fa8a4dba9742a",
+  "files": {
+    "main.js": [
+      "chunk-3MMQSADW.js",
+      "chunk-FEDUQ665.js"
+    ],
+    "deserializer.js": [],
+    "signals.js": [
+      "chunk-XBF4WPCX.js",
+      "chunk-FEDUQ665.js"
+    ],
+    "island-counter.js": [
+      "chunk-3MMQSADW.js",
+      "chunk-XBF4WPCX.js",
+      "chunk-FEDUQ665.js"
+    ],
+    "chunk-3MMQSADW.js": [],
+    "chunk-XBF4WPCX.js": [
+      "chunk-FEDUQ665.js"
+    ],
+    "chunk-FEDUQ665.js": [],
+    "metafile.json": []
+  }
+}
